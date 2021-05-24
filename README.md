@@ -1,2 +1,2 @@
 # jeuxMots
-Une application qui sélectionne aléatoirement parmi plusieurs jeux qui tournent autour de chaines de caractères.
+Une application qui sélectionne aléatoirement parmi plusieurs jeux tournant autour de chaines de caractères.
